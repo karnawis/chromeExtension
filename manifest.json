@@ -1,0 +1,13 @@
+{
+    "name": "Art Extension",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "This extension will display a random piece of art from the Metropolitan Museum of Art.",
+    "author": "Sura K",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "16": "images/art-logo.png"
+        }
+    }
+}
